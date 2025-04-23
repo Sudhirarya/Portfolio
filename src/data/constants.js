@@ -187,7 +187,6 @@ export const experiences = [
       "CSS",
       "JavaScript",
     ],
-    // doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Screenshot%20from%202024-01-25%2022-38-31.png?alt=media&token=2785903f-1a4e-41f5-afd2-6adcfe56d058",
   },
   {
     id: 1,
@@ -315,8 +314,6 @@ export const projects = [
       "NodeMailer",
     ],
     category: "web app",
-    // github: "https://github.com/rishavchanda/Project-Management-App",
-    // webapp: "https://vexa-app.netlify.app/",
   },
   {
     id: 2,
@@ -328,8 +325,6 @@ export const projects = [
       "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
     tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
     category: "machine learning",
-    // github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-    // webapp: "https://brain-tumor.netlify.app/",
   },
   {
     id: 3,
@@ -366,7 +361,6 @@ export const projects = [
     tags: ["React Js", "Firebase", "Firestore", "Node JS"],
     category: "web app",
     github: "https://github.com/Sudhirarya/whatsapp-clone",
-    // webapp: "https://whatsapp-clone-rishav.web.app",
   },
   {
     id: 5,
@@ -381,43 +375,4 @@ export const projects = [
     github: "https://github.com/Sudhirarya/Project",
     webapp: "https://project-tan-theta.vercel.app/",
   },
-  // {
-  //   id: 6,
-  //   title: "Breaking Bad",
-  //   date: "Jun 2021",
-  //   description:
-  //     "A simple react app that shows the characters of the famous TV series Breaking Bad. It uses the Breaking Bad API to fetch the data. It also has a search bar to search for a particular character.",
-  //   image:
-  //     "https://camo.githubusercontent.com/937774368308a82419f53dd6eeb4a8675780e119636488b4e3cfe5d34859a72a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f7425323028313534292e706e673f616c743d6d6564696126746f6b656e3d65613439383630632d303435362d343333342d616435372d336239346663303333363263",
-  //   tags: ["React Js", "API", "Axios", "Node JS"],
-  //   category: "web app",
-  //   // github: "https://github.com/rishavchanda/Breaking-Bad",
-  //   // webapp: "https://breaking-bad-webapp.netlify.app",
-  // },
-  // {
-  //   id: 7,
-  //   title: "Quiz App",
-  //   date: "Dec 2020 - Jan 2021",
-  //   description:
-  //     "A android quiz app made with Java and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.",
-  //   image:
-  //     "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
-  //   tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
-  //   category: "android app",
-  //   // github: "https://github.com/rishavchanda/Quiz-Earn",
-  //   // webapp: "https://github.com/rishavchanda/Quiz-Earn",
-  // },
-  // {
-  //   id: 8,
-  //   title: "Face Recognition",
-  //   date: "Jan 2021",
-  //   description:
-  //     "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
-  //   image:
-  //     "https://dontrepeatyourself.org/media/face-recognition-with-python-dlib-and-deep-learning_cezKZBj.png",
-  //   tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-  //   category: "machine learning",
-  //   // github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-  //   // webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-  // },
 ];
